@@ -1,0 +1,12 @@
+---
+:id: 147630463
+:submitters:
+- :name: Katherine Ann Gu
+  :email: kgu42@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-09 22:50:08.374888000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-09 14:50:08.374888000 Z
+:status: processed
+:score: 100.0
